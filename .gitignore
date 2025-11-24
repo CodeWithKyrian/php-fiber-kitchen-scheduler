@@ -1,0 +1,34 @@
+/vendor/
+composer.lock
+composer.phar
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# test output
+/results/
+build/
+coverage/
+
+# PHPStorm
+*.iml
+out/
+
+# PHPUnit
+.phpunit.result.cache
+
+# Other
+.env
+.env.*
+/node_modules/
+

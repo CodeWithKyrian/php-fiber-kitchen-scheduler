@@ -1,0 +1,18 @@
+{
+    "name": "kyrian/task-manager-app",
+    "autoload": {
+        "psr-4": {
+            "Kyrian\\TaskManagerApp\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Kyrian Obikwelu",
+            "email": "koshnawaza@gmail.com"
+        }
+    ],
+    "require": {}
+}
